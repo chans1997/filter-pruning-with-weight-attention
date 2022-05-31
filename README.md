@@ -1,7 +1,7 @@
 # filter-pruning-with-weight-attention
 
 pruning cifar10 :  pruning_cifar10.py
-
+其中pruning_cifar10由于我在自己电脑上跑直接设置，后面可以直接删除，选择传参训练。
 pruning imagenet: pruning_imagenet.py
 
 参数设置可参考：https://github.com/he-y/filter-pruning-geometric-median
